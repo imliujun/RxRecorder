@@ -32,5 +32,6 @@ dependencies {
     api rootProject.ext.dependencies["timber"]
     api rootProject.ext.dependencies["rxjava2"]
     api rootProject.ext.dependencies["permission"]
-    api project(':recorder-mp3')
+    implementation 'com.github.imliujun.RxRecorder:recorder-mp3:v0.1'
+    //    api project(':recorder-mp3')
 }
