@@ -67,4 +67,5 @@ RecordUtils.recording(2 * 60 * 1000)
 ## 感谢
 
 [RxAndroidAudio](https://github.com/Piasy/RxAndroidAudio)  音频播放使用了 RxAndroidAudio 的代码
+
 [TAndroidLame](https://github.com/naman14/TAndroidLame) Lame 编码使用了 TAndroidLame
